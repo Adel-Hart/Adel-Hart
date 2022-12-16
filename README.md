@@ -1,16 +1,18 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?&type=waving&color=0:E8CBC0,100:636FA4&text=welcome%20To%20Adel%20Hart%20PAGE&fontColor=FFFF&animation=twinkling&fontSize=30)
 
-<!--
-**Adel-Hart/Adel-Hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/OEQ8NOhu2nwAAAAi/mind-blown-mind-explosion.gif">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ADEL_HART
+==========
+>**Who?**
+>SangMu HS
+>Chief on GOLP
+>Chief on T.Juice
+
+
+>**Contact**
+>t2amju1ce.official@gmail.com
