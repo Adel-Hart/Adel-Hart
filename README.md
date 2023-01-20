@@ -12,11 +12,10 @@
 
 ADEL_HART
 ==========
->**Who?**  
 >Enrolled on SangMu HS  
 >Chief on GOLP  
 >Chief on T.Juice  
   
   
->**Contact?**  
+>**Contact**  
 >t2amju1ce.official@gmail.com  
