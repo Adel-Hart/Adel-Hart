@@ -7,7 +7,11 @@
 <img src="https://media.tenor.com/OEQ8NOhu2nwAAAAi/mind-blown-mind-explosion.gif">  
 
 
-
+**메인프로젝트 (클릭하면 넘어갑니다)**  
+===============  
+- [학술제; 급식 확인 시스템](https://github.com/Adel-Hart/HakSulZae)  
+- [과학주제탐구대회; 와이파이 분석](https://github.com/Adel-Hart/gwatamCompetition)
+- [영어 수행평가; 대충만든 퀴즈 게임](https://github.com/Adel-Hart/English_Quiz_GAME)
 
 
 ADEL_HART
