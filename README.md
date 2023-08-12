@@ -7,21 +7,21 @@
 <img src="https://media.tenor.com/OEQ8NOhu2nwAAAAi/mind-blown-mind-explosion.gif">  
 
 
-**메인프로젝트 (클릭하면 넘어갑니다)**  
+**MainProject (Click to Move page)**  
 ===============  
-- [학생 / 선생님 종합 도움 시스템](https://github.com/Adel-Hart/HelperForSchool)
-- [탑 뷰 온라인 슈팅게임](https://github.com/Adel-Hart/topviewShootingGameOnline)
-- [학술제; 급식 확인 시스템](https://github.com/Adel-Hart/HakSulZae)  
-- [과학주제탐구대회; 와이파이 분석](https://github.com/Adel-Hart/gwatamCompetition)
-- [영어 수행평가; 대충만든 퀴즈 게임](https://github.com/Adel-Hart/English_Quiz_GAME)
+- [student / teacher Education support project](https://github.com/Adel-Hart/HelperForSchool)
+- [Topview Online shooting Game](https://github.com/Adel-Hart/topviewShootingGameOnline)
+- [Academic seminar; School dinner meals Checking system(Hardware, Software, database)](https://github.com/Adel-Hart/HakSulZae)  
+- [Topic Exploration Contest; Wifi Analyze for speed, do 1st](https://github.com/Adel-Hart/gwatamCompetition)
+- [Eng performance assessment; Bad manufactured cash quiz game](https://github.com/Adel-Hart/English_Quiz_GAME)
 
 
 ADEL_HART
 ==========
 >Enrolled on SangMu HS  
 >Chief on GOLP  
->Chief on T.Juice  
+>Chief on TGH
   
   
 >**Contact**  
->t2amju1ce.official@gmail.com  
+>dongHoon777.kim@gmail.com  
