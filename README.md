@@ -9,20 +9,12 @@
 
 **MainProject (Click to Move page)**  
 ===============  
-- [student / teacher Education support project](https://github.com/Adel-Hart/HelperForSchool)
-- [Topview Online shooting Game](https://github.com/Adel-Hart/topviewShootingGameOnline)
-- [Academic seminar; School dinner meals Checking system(Hardware, Software, database)](https://github.com/Adel-Hart/HakSulZae)  
-- [Topic Exploration Contest; Wifi Analyze for speed, do 1st](https://github.com/Adel-Hart/gwatamCompetition)
-- [Eng performance assessment; Bad manufactured cash quiz game](https://github.com/Adel-Hart/English_Quiz_GAME)
 - [2023 Hanyang University Game Coding Contest](https://github.com/Adel-Hart/PPythonGAme)
 
 
 ADEL_HART
 ==========
 >Enrolled on SangMu HS  
->Chief on GOLP  
->Chief on TGH
-  
-  
+
 >**Contact**  
 >dongHoon777.kim@gmail.com  
